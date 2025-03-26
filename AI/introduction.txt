@@ -1,0 +1,19 @@
+Aritificial intelligence - An intelligent system that can replicate the behaviour of humens are described and being developed as AI. 
+As a humen being the common behaviours are - Reasoning, learning, problem solving, perceptions. this behaviour can be adopted and implemented into the
+system and make them intelligent to perform tasks that humen do.
+
+Technically, An Aritificial intelligence is an intelligent system that can learn and can resoning upon it's knowleged and implement generalized 
+decisions to produce results or solve problem.
+
+
+Most Common modules of AI - Search algorithms, logical reasoning, reasoning with uncertainity (When possibility of something to happen is uncertain)\
+
+An intelligent system that can simulate the humen intelligence and comprehense patterns and perform cognitivly.
+
+Key Subsets of AI - 
+
+Machine learning
+Natural language processing
+Computer vision
+Exper system 
+Robotics
